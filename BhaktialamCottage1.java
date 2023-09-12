@@ -340,12 +340,12 @@ public class BhaktialamCottage1 {
                             continue;
 
                         case 3: 
-                            System.out.println("KAMAR BELIMBING HOLYDAY");
+                            System.out.println("KAMAR BELIMBING HOLIDAY");
                             System.out.println("Berapa malam anda menginap?");
 
                             int malam5 = input.nextInt();
                             int harga5 = 755000 * malam5;
-                            System.out.println("KAMAR BELIMBING HOLYDAY UNTUK " + malam5 + " MALAM");
+                            System.out.println("KAMAR BELIMBING HOLIDAY UNTUK " + malam5 + " MALAM");
                             System.out.println("Harga:" + harga5);
                             continue;
                         }
@@ -388,12 +388,12 @@ public class BhaktialamCottage1 {
                             continue;
 
                         case 3: 
-                            System.out.println("KAMAR BELIMBING HOLYDAY");
+                            System.out.println("KAMAR BELIMBING HOLIDAY");
                             System.out.println("Berapa malam anda menginap?");
 
                             int malam5 = input.nextInt();
                             int harga5 = 755000 * malam5;
-                            System.out.println("KAMAR BELIMBING HOLYDAY UNTUK " + malam5 + " MALAM");
+                            System.out.println("KAMAR BELIMBING HOLIDAY UNTUK " + malam5 + " MALAM");
                             System.out.println("Harga:" + harga5);
                             continue;
                         }
@@ -437,12 +437,12 @@ public class BhaktialamCottage1 {
 
                         case 3: 
                             System.out.println("");
-                            System.out.println("KAMAR KEDONDONG HOLYDAY");
+                            System.out.println("KAMAR KEDONDONG HOLIDAY");
                             System.out.println("Berapa malam anda menginap?");
 
                             int malam5 = input.nextInt();
                             int harga5 = 755000 * malam5;
-                            System.out.println("KAMAR KEDONDONG HOLYDAY UNTUK " + malam5 + " MALAM");
+                            System.out.println("KAMAR KEDONDONG HOLIDAY UNTUK " + malam5 + " MALAM");
                             System.out.println("Harga:" + harga5);
                             continue;
                         }
